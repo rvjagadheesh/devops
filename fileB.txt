@@ -1,1 +1,1 @@
-"fileB.txt - Version 1" 
+"fileB.txt - Version 1  - Github" 
